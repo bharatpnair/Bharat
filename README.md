@@ -3,6 +3,6 @@
 **Resume**
 
 <a href="test.docx" download>
-### Resume
+Resume
 
 ### Contact
