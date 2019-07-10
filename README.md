@@ -33,6 +33,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <a href="test.docx" download>
 ### Resume
-<img src="https://colorlib.com/wp/wp-content/uploads/sites/2/resume-website-templates-1.jpg">
 
 ### Contact
