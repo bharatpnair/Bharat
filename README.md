@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### hello
 <a href="test.docx" download>
-Resume
+**Resume**
 
 ```markdown
 Syntax highlighted code block
