@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### hello
 <a href="test.docx" download>
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Resume
 
 ```markdown
 Syntax highlighted code block
