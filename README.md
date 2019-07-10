@@ -32,6 +32,6 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Resume
-
+<img src="https://colorlib.com/wp/wp-content/uploads/sites/2/resume-website-templates-1.jpg">
 
 ### Contact
