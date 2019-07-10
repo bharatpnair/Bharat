@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<a href="/desktop/test.docx" download>
+<a href="test.docx" download>
   
 You can use the [editor on GitHub](https://github.com/bharatpnair/bharatpnair/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
