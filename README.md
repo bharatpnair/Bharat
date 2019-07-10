@@ -1,7 +1,8 @@
 ### hello
+projects
 
 <a href="test.docx" download>
-Resume
+resume
   
-<a href="mailto:webmaster@example.com">Contact</a><br> 
+<a href="mailto:webmaster@example.com">contact</a><br> 
 
