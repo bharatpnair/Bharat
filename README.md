@@ -1,15 +1,16 @@
 **me:**
 
-projects! <div align="center">-click-
+projects!
+-click-
 
 resume
 <a href="test.docx" download>
-<div align="center">-click-
+-click-
  
 email
-<div align="center">-click-</a><br> 
+-click-</a><br> 
 
 phone
-<div align="center"> 510.999.1551
+510.999.1551
 
-<div align="center"> photos!
+photos!
