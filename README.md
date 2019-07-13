@@ -1,16 +1,16 @@
 **me:**
 
 projects!
-&emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &emsp; &emsp; &emsp; &ensp;-click-
+<div align="center">-click-
 
 resume
 <a href="test.docx" download>
- &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp;  &emsp; &nbsp;-click-
+<div align="center">-click-
  
 email
-<a href="mailto:bharat_nair@hotmail.com">&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; -click-</a><br> 
+<div align="center">-click-</a><br> 
 
 phone
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;510.999.1551
+<div align="center"> 510.999.1551
 
 <div align="center"> photos!
