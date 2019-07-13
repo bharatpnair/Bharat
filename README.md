@@ -1,6 +1,7 @@
 **me:**
 
-projects!;
+projects!
+
 <div align="center">-click-
 
 resume
