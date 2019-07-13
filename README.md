@@ -13,4 +13,4 @@ email
 phone
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;510.999.1551
 
-photos!
+<div align="right justify"> photos!
