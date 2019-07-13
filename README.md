@@ -11,6 +11,6 @@ email
 <a href="mailto:bharat_nair@hotmail.com">&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; -click-</a><br> 
 
 phone
-510.999.1551
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;510.999.1551
 
 photos!
