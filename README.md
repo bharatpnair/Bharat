@@ -1,8 +1,6 @@
 **me:**
 
-projects!
-
-<div align="center">-click-
+projects! <div align="center">-click-
 
 resume
 <a href="test.docx" download>
