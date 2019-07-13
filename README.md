@@ -1,7 +1,7 @@
 **me:**
 
 projects
- click
+ -click-
 
 resume
 <a href="test.docx" download>
@@ -10,5 +10,7 @@ resume
 email
 <a href="mailto:bharat_nair@hotmail.com"> click</a><br> 
 
-phone
+phone-
 510.999.1551
+
+photos
