@@ -1,7 +1,7 @@
 **me:**
 
-projects
-&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &ensp;-click-
+projects!
+&emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; &emsp; &emsp; &emsp; &ensp;-click-
 
 resume
 <a href="test.docx" download>
@@ -10,7 +10,7 @@ resume
 email
 <a href="mailto:bharat_nair@hotmail.com">&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; -click-</a><br> 
 
-phone-
+phone
 510.999.1551
 
-photos
+photos!
