@@ -1,8 +1,7 @@
 **me:**
 
 projects
-<center>
--click-
+<center>-click-
 
 resume
 <a href="test.docx" download>
