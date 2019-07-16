@@ -4,9 +4,7 @@ projects
 -click-
 
 resume
-<a href="test.docx" download>
-
- -click-
+<a href="test.docx" download> -click-
  
 email
 
