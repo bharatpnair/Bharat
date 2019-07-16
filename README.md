@@ -1,6 +1,6 @@
 **me:**
 
-projects!
+projects
 -click-
 
 resume
@@ -11,6 +11,6 @@ email
 <a href="mailto:bharat_nair@hotmail.com">-click-</a><br>
 
 phone
-510.999.1551
+<center>  510.999.1551
 
-photos!
+
