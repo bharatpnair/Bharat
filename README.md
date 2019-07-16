@@ -8,7 +8,7 @@ resume
 -click-
  
 email
-<a href="mailto:bharat_nair@hotmail.com">-click-</a><br>
+<center> <a href="mailto:bharat_nair@hotmail.com">-click-</a><br>
 
 phone
 <center>  510.999.1551
