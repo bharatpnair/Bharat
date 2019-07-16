@@ -8,7 +8,7 @@ resume
  
 email
 
-<a href="mailto:bharat_nair@hotmail.com">-click-</a><br>
+<a href="mailto:bharat_nair@hotmail.com"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-click-</a><br>
 
 
 phone
