@@ -5,10 +5,11 @@ projects
 
 resume
 <a href="test.docx" download>
--click-
+<center>-click-
  
 email
-<center> <a href="mailto:bharat_nair@hotmail.com">-click-</a><br>
+<center><a href="mailto:bharat_nair@hotmail.com">-click-</a><br>
+
 
 phone
 <center>  510.999.1551
