@@ -4,7 +4,7 @@ projects
  &nbsp;-click-
 
 resume
-<a href="test.docx" download> &nbsp;  -click-
+&nbsp; <a href="test.docx" download>  -click-
  
 email
 &nbsp; &nbsp;&nbsp;&nbsp;<a href="mailto:bharat_nair@hotmail.com">-click-</a><br>
