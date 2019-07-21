@@ -1,8 +1,5 @@
 **me:**
 
-projects
- &nbsp;-click-
-
 resume
 &nbsp; <a href="RESUME SUM.pdf" download target="_blank">  -click-
  
@@ -12,5 +9,11 @@ email
 
 phone
  &nbsp;  &nbsp;  510.999.1551
+ 
+projects
+ &nbsp;-click-
+ 
+photos
+&nbsp; <a href="Resume Photos.pdf" download target="_blank">  -click-
 
 
