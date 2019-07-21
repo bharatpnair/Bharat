@@ -15,7 +15,7 @@ projects!
 photos!
 &nbsp; <a href="Resume Photos.pdf" download target="_blank">  -click-
  
-bicycles!
-&nbsp; <a href="Resume Photos.pdf" download target="_blank">  -click-
+bicycle builds!
+&nbsp; <a href="Resume Bicycles.pdf" download target="_blank">  -click-
 
 
