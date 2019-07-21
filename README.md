@@ -9,10 +9,13 @@ phone
 resume
 &nbsp; <a href="RESUME SUM.pdf" download target="_blank">  -click-
  
-projects
+projects!
  &nbsp;-click-
  
-photos
+photos!
+&nbsp; <a href="Resume Photos.pdf" download target="_blank">  -click-
+ 
+bicycles!
 &nbsp; <a href="Resume Photos.pdf" download target="_blank">  -click-
 
 
