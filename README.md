@@ -8,7 +8,7 @@ resume
  &nbsp;&emsp;&emsp;&emsp;&emsp; <a href="Website Resume.pdf"  target="_blank">  -click-
  
 project sample
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="Web Projects Save That Spot.pdf"  target="_blank">  -click-
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="Website Project.pdf"  target="_blank">  -click-
  
  
 35mm photos
