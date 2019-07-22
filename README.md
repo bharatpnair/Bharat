@@ -5,7 +5,7 @@ phone
 &emsp;&emsp;&emsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a href="mailto:bharat_nair@hotmail.com">-click-</a><br>
 
 resume
- &nbsp;&emsp;&emsp;&emsp;&emsp; <a href="RESUME SUM.pdf" download target="_blank">  -click-
+ &nbsp;&emsp;&emsp;&emsp;&emsp; <a href="Web Resume.pdf"  target="_blank">  -click-
  
 project sample
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="Web Projects Save That Spot.pdf"  target="_blank">  -click-
