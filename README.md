@@ -10,7 +10,7 @@ resume
 &nbsp; <a href="RESUME SUM.pdf" download target="_blank">  -click-
  
 project sample!
-&nbsp; <a href="Resume Projects Save That Spot.pdf"  target="_blank">  -click-
+&nbsp; <a href="Web Projects Save That Spot.pdf"  target="_blank">  -click-
  
  
 35mm photos!
