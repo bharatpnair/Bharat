@@ -13,10 +13,10 @@ project sample!
 &nbsp; <a href="Resume Projects Save That Spot.pdf"  target="_blank">  -click-
  
  
-photos!
+35mm photos!
 &nbsp; <a href="Web Photos.pdf"  target="_blank">  -click-
  
-bicycles!
+bicycle builds!
 &nbsp; <a href="Resume Bicycles.pdf"  target="_blank">  -click-
 
 
