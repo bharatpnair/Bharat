@@ -9,7 +9,7 @@ phone
 resume
 &nbsp; <a href="RESUME SUM.pdf" download target="_blank">  -click-
  
-projects!
+project sample!
  &nbsp;-click-
  
 photos!
