@@ -4,10 +4,10 @@ phone
  &nbsp;  &nbsp;  510.999.1551
  
  email
-&emsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a href="mailto:bharat_nair@hotmail.com">-click-</a><br>
+&emsp;&emsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<a href="mailto:bharat_nair@hotmail.com">-click-</a><br>
 
 resume
-&nbsp; <a href="RESUME SUM.pdf" download target="_blank">  -click-
+&emsp;&emsp;&emsp;&nbsp; <a href="RESUME SUM.pdf" download target="_blank">  -click-
  
 project sample!
 &nbsp;&nbsp;&nbsp;<a href="Web Projects Save That Spot.pdf"  target="_blank">  -click-
