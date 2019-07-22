@@ -7,15 +7,13 @@ phone
 resume
  &nbsp;&emsp;&emsp;&emsp;&emsp; <a href="RESUME SUM.pdf" download target="_blank">  -click-
  
-project sample!
+project sample
 &nbsp;&nbsp;&nbsp;<a href="Web Projects Save That Spot.pdf"  target="_blank">  -click-
  
  
-35mm photos!
+35mm photos
 &nbsp; &nbsp;&nbsp; <a href="Web Photos.pdf"  target="_blank">  -click-
  
-bicycle builds!
+bicycle builds
 &nbsp;&nbsp; &nbsp;&nbsp; <a href="Resume Bicycles.pdf"  target="_blank">  -click-
 
-
-<TEXT="000000">
