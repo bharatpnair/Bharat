@@ -1,5 +1,3 @@
-**me:**
-
 phone
 &emsp;&emsp;&emsp;&emsp;  &nbsp; &nbsp;  510.999.1551
  
