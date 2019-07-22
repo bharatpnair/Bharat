@@ -14,9 +14,9 @@ project sample!
  
  
 35mm photos!
-&nbsp; <a href="Web Photos.pdf"  target="_blank">  -click-
+&nbsp; &nbsp;&nbsp; <a href="Web Photos.pdf"  target="_blank">  -click-
  
 bicycle builds!
-&nbsp; <a href="Resume Bicycles.pdf"  target="_blank">  -click-
+&nbsp; &nbsp;&nbsp; <a href="Resume Bicycles.pdf"  target="_blank">  -click-
 
 
