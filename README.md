@@ -14,7 +14,7 @@ project sample!
  
  
 photos!
-&nbsp; <a href="Resume Photos.pdf" download target="_blank">  -click-
+&nbsp; <a href="Resume Photos.pdf"  target="_blank">  -click-
  
 bicycles!
 &nbsp; <a href="Resume Bicycles.pdf" download target="_blank">  -click-
